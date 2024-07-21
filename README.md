@@ -99,7 +99,7 @@ number, and other information about the file to be stored in the file itself.
 first detect the ID3 version before getting the tag details.
 
 <div align="center">
-  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/Screenshot%202024-07-21%20211639.png"  />
+  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/2.png"  />
 </div>
 Total 128 bytes used for storing these metadata. If you one sum the the size of
  all these fields we see that 30+30+30+4+30+1 equals 125 bytes and not 128 
@@ -110,7 +110,7 @@ is said that if there is some bytes left after the information is entered in the
 field, those bytes should be fille with the binary value 0.
  
 <div align="center">
-  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/Screenshot%202024-07-21%20211704.png"  />
+  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/1.png"  />
 </div>
 An ID3v2 tag starts with a tag header followed by one or more frames. Each 
 frame in turn consists of a header and (usually) some kind of content.
@@ -125,10 +125,10 @@ and 4.
 ## Roadmap
 
 <div align="center">
-  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/Screenshot%202024-07-21%20211639.png"  />
+  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/3.png"  />
 </div>
 <div align="center">
-  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/Screenshot%202024-07-21%20211704.png"  />
+  <img height="700" src="https://raw.githubusercontent.com/AnanthanAnil/MP3-Tag-Reader/main/MP3%20Tag%20Reader/4.png"  />
 </div>
 
 
